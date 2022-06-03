@@ -4,6 +4,8 @@
 
 - [Ella's Deployed Cookie Stand](https://ellas-cookie-stand.herokuapp.com/api/v1/cookie_stand/)
 
+- I worked on this with Eden Brekke
+
 ## Customization Steps
 
 - DO NOT migrate yet
@@ -46,7 +48,7 @@
 - Step 17: Go to models and update the model fields as necessary, make sure to adjust the str dunder method as needed. and update the class name.
 - Step 18: docker compose run web bash
 - Step 19: python manage.py showmigrations
-    - Step 19.b: chase bugs as necessary
+- Step 19.b: chase bugs as necessary
 - Step 20: python manage.py makemigrations
 - Step 21: python manage.py migrate
 - Step 22: python manage.py createsuperuser
